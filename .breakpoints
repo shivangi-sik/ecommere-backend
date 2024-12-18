@@ -1,0 +1,20 @@
+{
+  "files": {
+    "db/db.connect.js": [
+      {
+        "id": "a33383ab-a6e1-4fae-9001-a0f645c983ab",
+        "line": 7,
+        "version": 25,
+        "index": 157
+      }
+    ],
+    "jewellery.json": [
+      {
+        "id": "e2e73885-cd34-450a-a25d-a71fad3b275c",
+        "line": 211,
+        "version": 1804,
+        "index": 8613
+      }
+    ]
+  }
+}

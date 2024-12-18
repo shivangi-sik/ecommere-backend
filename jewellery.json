@@ -1,0 +1,262 @@
+ [
+   
+          {
+              "name": "Diamond Solitaire Ring",
+              "description": "A classic solitaire ring with a round-cut diamond set in 18K gold.",
+              "category": "Rings",
+              "mrp": 1500,
+              "discount": 10, 
+              "imageUrl": "https://as1.ftcdn.net/v2/jpg/07/50/95/08/1000_F_750950817_5sONTtPHvbTMIgQTvMXDiRViPABbxuEE.jpg",
+              "stockQuantity": 25,
+              "dispatchTime": "2 days",
+              "deliveryTime": 7,
+              "rating": 4.9
+            },
+    
+       {
+           "name": "Pearl Strand Necklace",
+           "description": "A classic pearl strand necklace, an essential in every jewelry collection.",
+           "category": "Neckpieces",
+           "mrp": 900,
+           "discount": 20,
+           "imageUrl": "https://i.etsystatic.com/16471337/r/il/8c3134/3742407556/il_fullxfull.3742407556_rj0l.jpg",
+           "stockQuantity": 30,
+           "dispatchTime": "3 days",
+           "deliveryTime": 8,
+           "rating": 4.7
+           },
+          {
+              "name": "Ruby Eternity Band",
+              "description": "An eternity band featuring round rubies set in 14K gold.",
+              "category": "Rings",
+              "mrp": 1000,
+              "discount": 15,
+              "imageUrl": "https://www.thisisthelast.com/cdn/shop/files/Perfect-Eternity-Band-Ruby-14k-Yellow-Gold_3_720x.jpg?v=1690588117",
+              "stockQuantity": 15,
+              "dispatchTime": "3 days",
+              "deliveryTime": 6,
+              "rating": 4.8
+            },
+         
+          
+     {
+           "name": "Emerald Drop Earrings",
+           "description": "Emrald drop earrings crusted with sparkling diamonds" ,
+           "category": "Earrings",
+           "mrp": 1500,
+           "discount": 15,
+           "imageUrl": "https://media.istockphoto.com/id/1267494600/photo/close-up-of-earrings-with-a-large-green-stone-and-a-decoration-of-white-beads-on-a-brown.jpg?s=2048x2048&w=is&k=20&c=bUc_4CVtA3cbOVAyyQfPMd1fQ9loourTxybtKy9Ufd8=",
+           "stockQuantity": 25,
+           "dispatchTime": "2 days",
+           "deliveryTime": 7,
+           "rating": 4.8
+       },
+           {
+              "name": "Vintage Rose Gold Ring",
+              "description": "A pair of rose gold ring with intricate vintage detailing and small diamonds.",
+              "category": "Rings",
+               "mrp": 1600,
+              "discount": 20,
+              "imageUrl": "https://media.istockphoto.com/id/1203787140/photo/pair-of-rose-gold-wedding-rings-with-diamonds-and-matte-surface-isolated-on-white.jpg?s=612x612&w=is&k=20&c=xKyMWNMJMIrQz8q14K7ni-mxBwmqq40VGRDjZRIuxmI=",
+              "stockQuantity": 30,
+              "dispatchTime": "3 days",
+              "deliveryTime": 8,
+              "rating": 4.6
+           },
+    
+          
+          
+          {
+              "name": "Pearl Stud Earrings",
+              "description": "Classic pearl studs set in sterling silver, perfect for any occasion.",
+              "category": "Earrings",
+              "mrp": 500,
+              "discount": 10,
+              "imageUrl": "https://media.istockphoto.com/id/157287969/photo/pearl-diamond-earings.jpg?s=2048x2048&w=is&k=20&c=M_mR6WFZKVEX3xHF_qmdx6p0OI5TSR-ShuAXS81kgSI=",
+              "stockQuantity": 40,
+              "dispatchTime": "1 day",
+              "deliveryTime": 5,
+              "rating": 4.9
+          },
+        
+    
+          {
+              "name": "Diamond Hoop Earrings",
+              "description": "Hoop earrings encrusted with sparkling diamonds.",
+              "category": "Earrings",
+              "mrp": 1300,
+              "discount": 12,
+              "imageUrl": "https://example.com/images/diamond-hoop-earrings.jpg",
+              "stockQuantity": 20,
+              "dispatchTime": "2 days",
+              "deliveryTime": 7,
+              "rating": 4.7
+          },
+         
+     {
+           "name": "Cuff Bracelet",
+           "description": "A bold gold cuff bracelet with a sleek design.",
+           "category": "Bracelets",
+               "mrp": 1200,
+           "discount": 15,
+           "imageUrl": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSluCpKocgtVxC8ICqZonJS0QTr4TZl6G3fbVGWT5G7aXLP1cWy7BGeA4pbJioTsbUsYrGavixxPokkPKtK2l2iAWwZSk9qSrQpelta3rBM0uJmYtKt4l77",
+           "stockQuantity": 20,
+           "dispatchTime": "2 days",
+           "deliveryTime": 7,
+           "rating": 4.8
+           },
+     
+         
+          {
+              "name": "Pearl and Diamond Dangle Earrings",
+              "description": "Sophisticated dangle earrings with pearls and diamonds.",
+              "category": "Earrings",
+              "mrp": 1400,
+              "discount": 15,
+              "imageUrl": "https://i.etsystatic.com/16541734/r/il/641fb3/3104703543/il_1140xN.3104703543_dpnx.jpg",
+              "stockQuantity": 15,
+              "dispatchTime": "3 days",
+              "deliveryTime": 8,
+              "rating": 4.8
+          },
+      
+          {
+     "name": "Gold Chain Necklace",
+     "description": "A sleek and simple 18K gold chain necklace, perfect for layering.",
+              "category": "Neckpieces",
+              "mrp": 700,
+              "discount": 15,
+              "imageUrl": "https://shyamsundarco.com/images/online_jewellery/lightweight/lwchain/12/cr.jpg?v=13082024119",
+              "stockQuantity": 35,
+              "dispatchTime": "1 day",
+              "deliveryTime": 5,
+              "rating": 4.6
+              },
+    
+      {
+           "name": "Charm Bracelet",
+           "description": "A sterling silver charm bracelet with customizable charms.",
+           "category": "Bracelets",
+               "mrp": 700,
+           "discount": 20,
+           "imageUrl": "https://www.giva.co/cdn/shop/files/preview_images/f16a60e091054580981af1b148d3ada7.thumbnail.0000000000.jpg?v=1694774550&width=1946",
+           "stockQuantity": 45,
+           "dispatchTime": "1 day",
+           "deliveryTime": 5,
+           "rating": 4.7
+           },
+         
+          {
+              "name": "Emerald and Diamond Necklace",
+              "description": "An exquisite emerald and diamond necklace set in white gold.",
+              "category": "Neckpieces",
+              "mrp": 2200,
+              "discount": 10,
+              "imageUrl": "https://www.orra.co.in/media/catalog/product/cache/a062e776095ada03f265202079309f18/c/s/csn23a21.jpg",
+              "stockQuantity": 15,
+              "dispatchTime": "2 days",
+              "deliveryTime": 7,
+              "rating": 5.0
+              },
+        
+          {
+              "name": "Rose Gold Heart Pendant",
+              "description": "A romantic rose gold necklace with a heart-shaped pendant.",
+              "category": "Neckpieces",
+              "mrp": 800,
+              "discount": 25,
+              "imageUrl": "https://images.cltstatic.com/media/product/350/AL00344-SS0000-rosy-haze-heart-pendant-necklace-in-rose-gold-plated--silver-prd-1-model.jpg",
+              "stockQuantity": 40,
+              "dispatchTime": "2 days",
+              "deliveryTime": 7,
+              "rating": 4.6
+              },
+     {
+           "name": "Vintage Gold Hoop Earrings",
+           "description": "Classic gold hoop earrings with vintage detailing.",
+           "category": "Earrings",
+           "mrp": 700,
+           "discount": 22,
+           "imageUrl": "https://i.etsystatic.com/11127708/r/il/9a540d/6055065236/il_1140xN.6055065236_2s7h.jpg",
+           "stockQuantity": 50,
+           "dispatchTime": "1 day",
+           "deliveryTime": 5,
+           "rating": 4.7
+       },
+       {
+           "name": "Topaz Stud Earrings",
+           "description": "Bright blue topaz studs set in white gold.",
+           "category": "Earrings",
+           "mrp": 600,
+           "discount": 25,
+           "imageUrl": "https://i.etsystatic.com/9289498/r/il/641e55/1519733369/il_1140xN.1519733369_4nfh.jpg",
+           "stockQuantity": 45,
+           "dispatchTime": "2 days",
+           "deliveryTime": 7,
+           "rating": 4.6
+       },
+         
+          {
+              "name": "Citrine Bar Necklace",
+              "description": "A minimalist bar necklace featuring a bright citrine stone.",
+              "category": "Neckpieces",
+              "mrp": 600,
+              "discount": 22,
+              "imageUrl": "https://i.etsystatic.com/6024345/r/il/470cdb/1278672756/il_794xN.1278672756_q4va.jpg",
+              "stockQuantity": 35,
+              "dispatchTime": "2 days",
+              "deliveryTime": 7,
+              "rating": 4.5
+              },
+       
+         {
+              "name": "Pearl Bracelet",
+              "description": "A timeless pearl bracelet with a silver clasp.",
+              "category": "Bracelets",
+                  "mrp": 800,
+              "discount": 15,
+              "imageUrl": "https://m.media-amazon.com/images/I/61x8ZFrQ7qL.jpg",
+              "stockQuantity": 25,
+              "dispatchTime": "2 days",
+              "deliveryTime": 7,
+              "rating": 4.9
+              },
+     {
+           "name": "Cushion Cut Halo Ring",
+           "description": "A cushion-cut diamond surrounded by a halo of smaller diamonds.",
+           "category": "Rings",
+            "mrp": 1600,
+           "discount": 10,
+           "imageUrl": "https://as2.ftcdn.net/v2/jpg/06/32/63/83/1000_F_632638301_xR7P9SY6uETO0P5XhGQVG0BtHnMW8MeG.jpg",
+           "stockQuantity": 18,
+           "dispatchTime": "2 days",
+           "deliveryTime": 7,
+           "rating": 4.9
+        },
+       
+         {
+              "name": "Emerald and Silver Bracelet",
+              "description": "A delicate silver bracelet with small emerald stones.",
+              "category": "Bracelets",
+                  "mrp": 1400,
+              "discount": 12,
+              "imageUrl": "https://images.diamondere.com/new_images/products/hillary/hillary_wg_em_0.jpg",
+              "stockQuantity": 20,
+              "dispatchTime": "2 days",
+              "deliveryTime": 7,
+              "rating": 4.8
+              },
+     {
+           "name": "Sapphire Beaded Necklace",
+           "description": "A vibrant sapphire beaded necklace with a gold clasp.",
+           "category": "Neckpieces",
+           "mrp": 1400,
+           "discount": 18,
+           "imageUrl": "https://i.etsystatic.com/7240086/r/il/348d3c/5814309642/il_794xN.5814309642_cip1.jpg",
+           "stockQuantity": 22,
+           "dispatchTime": "2 days",
+           "deliveryTime": 7,
+           "rating": 4.8
+           }
+         
+ ]

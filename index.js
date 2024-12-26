@@ -292,7 +292,9 @@ app.delete("/address/:id", async (req, res) => {
 });
 
 app.delete("/cart", async (req, res) => {
+  console.log("debugging");
   const { itemIds } = req.body; // Array of item IDs to remove
+
   console.log(itemIds);
   try {
     const clearedCart = await Cart.deleteMany({ _id: { $in: itemIds } });

@@ -1,8 +1,6 @@
 const { initializeDatabase } = require("./db/db.connect");
 const express = require("express");
 const app = express();
-//const fs = require("fs"); //file system
-
 const cors = require("cors");
 const corsOption = {
   origin: "*",
@@ -19,30 +17,6 @@ const Address = require("./models/address.model");
 
 initializeDatabase();
 app.use(express.json());
-
-// const jsonData = fs.readFileSync("jewellery.json", "utf-8");
-
-// const jewelleryData = JSON.parse(jsonData);
-
-// function addData() {
-//   for (const jewel of jewelleryData) {
-//     const newJewellery = new Jewellery({
-//       name: jewel.name,
-//       description: jewel.description,
-//       category: jewel.category,
-//       mrp: jewel.mrp,
-//       discount: jewel.discount,
-//       imageUrl: jewel.imageUrl,
-//       stockQuantity: jewel.stockQuantity,
-//       dispatchTime: jewel.dispatchTime,
-//       deliveryTime: jewel.deliveryTime,
-//       rating: jewel.rating,
-//     });
-//     newJewellery.save();
-//     console.log(newJewellery.name);
-//   }
-// }
-//  addData()
 
 //to get all jewelleries
 
@@ -314,6 +288,17 @@ app.delete("/address/:id", async (req, res) => {
   } catch (error) {
     console.log(error);
     res.status(500).json({ error: "Internal server Error." });
+  }
+});
+
+app.delete("/cart", async (req, res) => {
+  const { itemIds } = req.body; // Array of item IDs to remove
+
+  try {
+    await Cart.deleteMany({ _id: { $in: itemIds } });
+    res.status(200).json({ message: "Cart cleared successfully!" });
+  } catch (error) {
+    res.status(500).json({ message: "Error clearing cart", error });
   }
 });
 

@@ -293,12 +293,17 @@ app.delete("/address/:id", async (req, res) => {
 
 app.delete("/cart", async (req, res) => {
   const { itemIds } = req.body; // Array of item IDs to remove
-
+  console.log(itemIds);
   try {
-    await Cart.deleteMany({ _id: { $in: itemIds } });
-    res.status(200).json({ message: "Cart cleared successfully!" });
+    const clearedCart = await Cart.deleteMany({ _id: { $in: itemIds } });
+    console.log(clearedCart);
+    if (clearedCart) {
+      res.status(200).json({ message: "Cart cleared successfully!" });
+    } else {
+      res.status(404).json({ message: "Error clearing cart!" });
+    }
   } catch (error) {
-    res.status(500).json({ message: "Error clearing cart", error });
+    res.status(500).json({ message: "Internal Server Error", error });
   }
 });
 
